@@ -2,7 +2,7 @@
 <br/>
 
 ## How to install (DEFAULT or BASIC USAGE)
-	* git clone https://github.com/rrudy0966/instatools
+	* git clone https://github.com/putrasw23/instatools
 	* cd instatools
 	* unzip node_modules.zip
 	* ls
